@@ -7,7 +7,7 @@ Building things that solve real problems.
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
+<a href="https://github.com/itsdhruvvarshney"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
 
 <br/><br/>
 
@@ -97,13 +97,13 @@ Tools & Platforms
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=10b981&icon_color=10b981&text_color=c9d1d9" alt="GitHub Statistics"/> </a>
+<a href="https://github.com/itsdhruvvarshney"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsdhruvvarshney&show_icons=true&hide_border=true&theme=transparent&title_color=10b981&icon_color=10b981&text_color=c9d1d9" alt="GitHub Statistics"/> </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=10b981&text_color=c9d1d9" alt="Most Used Languages"/> </a>
+<a href="https://github.com/itsdhruvvarshney"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdhruvvarshney&layout=compact&hide_border=true&theme=transparent&title_color=10b981&text_color=c9d1d9" alt="Most Used Languages"/> </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=itsdhruvvarshneyE&hide_border=true&background=00000000&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Contribution Streak"/>
 
 </div>
 
